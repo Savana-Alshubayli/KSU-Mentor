@@ -18,25 +18,30 @@ KSU Mentor is a bilingual (Arabic–English) iOS application developed for the K
 
 ---
 ## 📱 App Screenshots
-![Chat View](./IMG_1.PNG)
+<img src="./IMG_1.PNG" alt="Chat View" width="300"/>
 
 ### 🧑‍🎓 Chat Categories
-![Chat View](./IMG_3020.PNG)
+<img src="./IMG_3019.PNG" alt="Chat View" width="300"/>
 
 ### 📆 Calendar View
-![Calendar](./IMG_3023.PNG)
+<img src="./IMG_3023.PNG" alt="Chat View" width="300"/>
+
 
 ### 🧠 Mental Health Support
-![Mental Health](./IMG_3024.PNG)
+<img src="./IMG_3024.PNG" alt="Chat View" width="300"/>
+
 
 ### 🛠 Tools Menu
-![Tools](./IMG_3021.PNG)
+<img src="./IMG_3021.PNG" alt="Chat View" width="300"/>
+
 
 ### 👤 Profile
-![Profile](./IMG_3022.PNG)
+<img src="./IMG_3023.PNG" alt="Chat View" width="300"/>
+
 
 ### 🦾 Example
-![Profile](./IMG_3026.PNG)
+<img src="./IMG_3026.PNG" alt="Chat View" width="300"/>
+
   
 
 ## 🛠 Project Structure | بنية المشروع
