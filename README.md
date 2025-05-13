@@ -46,7 +46,7 @@ KSU Mentor is a bilingual (Arabic–English) iOS application developed for the K
       <b>🛠 Tools</b>
     </td>
     <td align="center">
-      <img src="./IMG_3026.PNG" alt="Profile" width="200"/><br/>
+      <img src="./IMG_3023.PNG" alt="Profile" width="200"/><br/>
       <b>👤 Profile</b>
     </td>
   </tr>
