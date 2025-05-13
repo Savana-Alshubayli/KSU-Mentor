@@ -17,32 +17,47 @@ KSU Mentor is a bilingual (Arabic–English) iOS application developed for the K
 - 💬 Fully bilingual (Arabic + English)
 
 ---
-## 📱 App Screenshots
-<img src="./IMG_1.PNG" alt="Chat View" width="300"/>
+<h2>📱 App Screenshots</h2>
 
-### 🧑‍🎓 Chat Categories
-<img src="./IMG_3019.PNG" alt="Chat View" width="300"/>
-
-### 📆 Calendar View
-<img src="./IMG_3023.PNG" alt="Chat View" width="300"/>
-
-
-### 🧠 Mental Health Support
-<img src="./IMG_3024.PNG" alt="Chat View" width="300"/>
-
-
-### 🛠 Tools Menu
-<img src="./IMG_3021.PNG" alt="Chat View" width="300"/>
-
-
-### 👤 Profile
-<img src="./IMG_3023.PNG" alt="Chat View" width="300"/>
-
-
-### 🦾 Example
-<img src="./IMG_3026.PNG" alt="Chat View" width="300"/>
-
-  
+<table>
+  <tr>
+    <td align="center">
+      <img src="./IMG_1.PNG" alt="Home" width="200"/><br/>
+      <b>🏠 Home</b>
+    </td>
+    <td align="center">
+      <img src="./IMG_3019.PNG" alt="Chat Categories" width="200"/><br/>
+      <b>🧑‍🎓 Chat Categories</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./IMG_3022 copy.PNG" alt="Calendar View" width="200"/><br/>
+      <b>📆 Calendar</b>
+    </td>
+    <td align="center">
+      <img src="./IMG_3024.PNG" alt="Mental Health" width="200"/><br/>
+      <b>🧠 Mental Health</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./IMG_3021.PNG" alt="Tools Menu" width="200"/><br/>
+      <b>🛠 Tools</b>
+    </td>
+    <td align="center">
+      <img src="./IMG_3026.PNG" alt="Profile" width="200"/><br/>
+      <b>👤 Profile</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./IMG_3026.PNG" alt="Example" width="200"/><br/>
+      <b>🦾 Example</b>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ## 🛠 Project Structure | بنية المشروع
 
