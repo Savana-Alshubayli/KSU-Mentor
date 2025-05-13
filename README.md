@@ -1,8 +1,8 @@
-# 🎓 KSU Mentor – Academic AI Companion | المساعد الذكي لطلبة جامعة الملك سعود
+# 🎓 KSU Mentor – Academic AI Companion | المرشد الذكي لطلبة جامعة الملك سعود
 
 KSU Mentor is a bilingual (Arabic–English) iOS application developed for the King Saud University Transformation Hackathon. It serves as an intelligent academic assistant that supports students in navigating their academic and career journey by integrating ChatGPT-powered AI services and personalized tools.
 
-تطبيق "KSU Mentor" هو مساعد ذكي ثنائي اللغة (عربي–إنجليزي) تم تطويره ضمن هاكاثون التحوّل بجامعة الملك سعود، ويهدف إلى تمكين الطلبة أكاديميًا ومهنيًا من خلال دمج أدوات الذكاء الاصطناعي والدعم الشخصي.
+تطبيق "KSU Mentor" هو مرشد ذكي ثنائي اللغة (عربي–إنجليزي) تم تطويره ضمن هاكاثون التحوّل بجامعة الملك سعود، ويهدف إلى تمكين الطلبة أكاديميًا ومهنيًا من خلال دمج أدوات الذكاء الاصطناعي والدعم الشخصي.
 
 ---
 
