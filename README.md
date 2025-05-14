@@ -2,7 +2,7 @@
 
 KSU Mentor is a bilingual (Arabic–English) iOS application developed for the King Saud University Transformation Hackathon. It serves as an intelligent academic assistant that supports students in navigating their academic and career journey by integrating ChatGPT-powered AI services and personalized tools.
 
-تطبيق "KSU Mentor" هو مرشد ذكي ثنائي اللغة (عربي–إنجليزي) تم تطويره ضمن هاكاثون التحوّل بجامعة الملك سعود، ويهدف إلى تمكين الطلبة أكاديميًا ومهنيًا من خلال دمج أدوات الذكاء الاصطناعي والدعم الشخصي.
+تطبيق "KSU Mento" هو مرشد ذكي ثنائي اللغة (عربي–إنجليزي) تم تطويره ضمن هاكاثون التحوّل بجامعة الملك سعود، ويهدف إلى تمكين الطلبة أكاديميًا ومهنيًا من خلال دمج أدوات الذكاء الاصطناعي والدعم الشخصي.
 
 ---
 
@@ -78,14 +78,12 @@ KSU_Mentor/
 
 ## 🧪 How to Run | طريقة التشغيل
 
-1. Clone or download the project
-2. Open `KSU Mentor.xcodeproj` in Xcode
-3. Run on simulator or real device
-4. Replace `APIKey` with your actual OpenAI API key
+1. Clone or download the project - حمّل المشروع 
+2. Open `KSU Mentor.xcodeproj` in 'Xcode'    وافتحه في   
+3. Run on simulator or real device - شغّله على المحاكي أو جهاز حقيقي 
+4. Replace `APIKey` with your actual OpenAI API key  - OpenAI بالمفتاح الخاص بك من `APIKey` استبدل 
 
-1. حمّل المشروع وافتحه في Xcode  
-2. شغّله على المحاكي أو جهاز حقيقي  
-3. استبدل ملف `APIKey` بمفتاح API الخاص بك من OpenAI
+  
 
 ---
 
@@ -98,10 +96,12 @@ KSU_Mentor/
 
 ---
 
-## 🏁 Submitted to
+## 🏁 Submitted to | تم نقديمه إلى
 
-> 🖲️💡 **Transformation Hackathon – King Saud University**  
-> 🔗  Track | Smart Student Experience Theme  
+> 🖲️💡 **Transformation Hackathon – King Saud University -هاكاثون التحوّل بجامعة الملك سعود**
+
+> 🔗  Track مسار | Smart Student Experience Theme -  التجربة التعليمية
+
 > 📅 2025
 
 ---
